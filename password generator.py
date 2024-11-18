@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QMainWindow, QApplication, QLabel, QComboBox, QPushButton, QFileDialog,QSlider,QLineEdit,QCheckBox, QSpinBox
+from PyQt5.QtWidgets import QMainWindow, QApplication, QPushButton, QSlider, QLineEdit, QCheckBox, QSpinBox
 from PyQt5 import uic
 import sys
 import string
